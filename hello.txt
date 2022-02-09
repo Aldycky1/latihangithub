@@ -2,3 +2,11 @@ hello world saja
 Mencoba Menambahkan Pembaruan Deskripsi
 
 Mencoba Push Request melalui fork
+
+Melakukan update squash 1
+
+Mencoba melakukan update squash 1
+
+Mencoba melakukan update squash 2
+
+Mencoba melakukan update squash 2
