@@ -6,3 +6,5 @@ Mencoba Push Request melalui fork
 Melakukan update squash 1
 
 Mencoba melakukan update squash 1
+
+Mencoba melakukan update squash 2
