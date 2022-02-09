@@ -12,3 +12,5 @@ Mencoba melakukan update squash 2
 Mencoba melakukan update squash 2
 
 development
+
+Mencoba meminta request untuk reviu kode
